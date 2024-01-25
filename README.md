@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently Working on **Large Language Models(LLM)**
 
-- 💬 Ask me about **AI/ML , FullStack Web Dev**
+- 💬 Ask me about FullStack Web Dev**
 
 - 📫 How to reach me **yekaditya11@gmail.com**
 
